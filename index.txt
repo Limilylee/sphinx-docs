@@ -10,6 +10,9 @@ Welcome to Amanda's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   amanda
+   amanda2
+
 
 
 Indices and tables
