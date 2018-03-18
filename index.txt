@@ -12,6 +12,7 @@ Welcome to Amanda's documentation!
 
    amanda
    amanda2
+   amanda3
 
 
 
